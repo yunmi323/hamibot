@@ -21,6 +21,6 @@ Android 平台 JavaScript 自动化工具，无需 root。
 
 # 💬 交流群
 
-![Hamibot 微信交流群二维码](https://hamibot.com/api/v1/qrcode/z8alai3UaRi4)
+![Hamibot 微信交流群二维码](https://hamibot.com/api/v1/qrcode/hamibot)
 
 源代码仍在整理当中。

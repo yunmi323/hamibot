@@ -1,6 +1,7 @@
 # Hamibot
 
 Android 平台 JavaScript 自动化工具，无需 root。
+![Hamibot](https://repository-images.githubusercontent.com/317106172/7d373900-616e-11eb-9170-ba931b11f1cb)
 
 # 💡 提交需求
 

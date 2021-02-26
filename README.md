@@ -3,11 +3,17 @@
 Android 平台 JavaScript 自动化工具，无需 root。
 ![Hamibot](https://repository-images.githubusercontent.com/317106172/7d373900-616e-11eb-9170-ba931b11f1cb)
 
-# 💡 提交需求
+## 目录
+
+- [提交需求](#-提交需求)
+- [最新脚本](#-最新脚本)
+- [链接](#-链接)
+
+## 💡 提交需求
 
 如果你有什么想法，欢迎到 [需求列表](https://hamibot.com/requests) 提交你的需求，让你的想法落地实现。
 
-# 🤖 最新脚本
+## 🤖 最新脚本
 
 - 🔥 [钉钉打卡](https://hamibot.com/marketplace/T9Kt6)
 
@@ -32,11 +38,12 @@ Android 平台 JavaScript 自动化工具，无需 root。
 
 - [查看更多](https://hamibot.com/marketplace/)
 
-# 🔗 链接
+## 🔗 链接
 
 - [官网](https://hamibot.com/)
 - [脚本市场](https://hamibot.com/marketplace/)
 - [✨ 如何使用](https://hamibot.com/guide/)
 - [开发文档](https://docs.hamibot.com/)
+- [精选资源收集](https://github.com/hamibot/awesome-hamibot)
 
 源代码仍在整理当中。
